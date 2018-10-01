@@ -43,3 +43,20 @@ a:hover
 {
     color: #ff705b;
 }
+#baka{
+    border-top: #6fbb9a 1px dotted;
+    color: #ff0000;
+    text-align: center;
+}
+. greeting
+{
+    border-top: #6fbb9a 1px dotted;
+    color: #ff0000;
+    text-align: center;
+}
+p. aho
+{
+    border-top: #6fbb9a 1px dotted;
+    color: #ff0000;
+    text-align: center;
+}
